@@ -1,0 +1,8 @@
+fake_slam:
+  ros__parameters:
+    env_id: 1
+
+
+robot_position_updater:
+  ros__parameters:
+    update_rate: 1.0
