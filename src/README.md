@@ -1,6 +1,6 @@
 # Autonomous Navigation Test
 
-Welcome to the mission! Your task is to write a Path Planner and a Controller to navigate a simulated differential-drive robot from its spawn point `(0.0, 0.0)` to a golden goal sphere located at `(15.0, 0.0)` while avoiding walls.
+Welcome to the mission! Your task is to write a Path Planner and a Controller to navigate a simulated differential-drive robot from its spawn point `(0.0, 0.0)` to a golden goal sphere located at `(20.0, 0.0)` while avoiding walls.
 
 ## The Environment
 We provide a simulated backend. When you launch the project, it automatically spins up:
